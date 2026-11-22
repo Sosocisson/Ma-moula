@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Mes comptes",
+  "short_name": "Mes comptes",
+  "description": "Suivi de dépenses 100 % hors ligne, données stockées sur l'appareil.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4F3F8",
+  "theme_color": "#5B4FE9",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
